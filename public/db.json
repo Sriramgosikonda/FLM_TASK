@@ -1,0 +1,94 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Meta",
+      "location": "Hyderabad",
+      "industry": "Technology"
+    },
+    {
+      "id": 2,
+      "name": "Amazon",
+      "location": "Bangalore",
+      "industry": "Technology"
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "location": "Gurgaon",
+      "industry": "Technology"
+    },
+    {
+      "id": 4,
+      "name": "Netflix",
+      "location": "Delhi",
+      "industry": "Technology"
+    },
+    {
+      "id": 5,
+      "name": "Google",
+      "location": "Mumbai",
+      "industry": "Technology"
+    },
+    {
+      "id": 6,
+      "name": "Zomato",
+      "location": "Gurgaon",
+      "industry": "Food"
+    },
+    {
+      "id": 7,
+      "name": "Swiggy",
+      "location": "Bangalore",
+      "industry": "Food"
+    },
+    {
+      "id": 8,
+      "name": "Reliance Retail",
+      "location": "Mumbai",
+      "industry": "Retail"
+    },
+    {
+      "id": 9,
+      "name": "Flipkart",
+      "location": "Bangalore",
+      "industry": "Retail"
+    },
+    {
+      "id": 10,
+      "name": "HDFC Bank",
+      "location": "Mumbai",
+      "industry": "Finance"
+    },
+    {
+      "id": 11,
+      "name": "ICICI Bank",
+      "location": "Mumbai",
+      "industry": "Finance"
+    },
+    {
+      "id": 12,
+      "name": "Apollo Hospitals",
+      "location": "Hyderabad",
+      "industry": "Healthcare"
+    },
+    {
+      "id": 13,
+      "name": "Max Healthcare",
+      "location": "Delhi",
+      "industry": "Healthcare"
+    },
+    {
+      "id": 14,
+      "name": "Zara",
+      "location": "Delhi",
+      "industry": "Fashion"
+    },
+    {
+      "id": 15,
+      "name": "H&M",
+      "location": "Mumbai",
+      "industry": "Fashion"
+    }
+  ]
+}
