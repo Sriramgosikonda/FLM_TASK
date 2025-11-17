@@ -22,7 +22,6 @@ It is a fully responsive React-based application that displays a list of compani
 - Pagination for browsing large datasets
 - Sorting (A–Z / Z–A) by company name
 - Enhanced UI using Tailwind components
-- Live deployment on Vercel
 
 ---
 
@@ -30,7 +29,6 @@ It is a fully responsive React-based application that displays a list of compani
 - **Frontend:** React.js, Vite/CRA, Tailwind CSS  
 - **State Management:** React Hooks  
 - **API:** JSON Server / Mock API / Static JSON file  
-- **Deployment:** Vercel / Netlify  
 
 ---
 
